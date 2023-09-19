@@ -1,4 +1,5 @@
-## 
+## Basic ToDo Web Application
+This is a basic todo website, build using NextJs 13 to understand the **Postgres** database which is provided by Vercel.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
